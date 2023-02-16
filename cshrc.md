@@ -1,5 +1,5 @@
 
-How to move some files from one git repo to another (not a clone), preserving history
+### How to move some files from one git repo to another (not a clone), preserving history
 
 If your history is sane, you can take the commits out as patch and apply them in the new repository:
 
